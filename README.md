@@ -3,7 +3,7 @@
 <h3 align="center">Learn and Apply</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=latheeshvm&label=Profile%20views&color=0e75b6&style=flat" alt="latheeshvm" /> </p>
 
-- 🌱 I’m currently learning **ZTM**
+- 🌱 I’m currently learning at **ZTM**
 
 - 💬 Ask me about **Python, Flutter**
 
