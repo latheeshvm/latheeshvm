@@ -1,4 +1,3 @@
-[![MasterHead](https://retool.com/blog/content/images/2022/02/gotchas-git-github-banner-1.png)](https://latheesh.me)
 <h1 align="center">Hi 👋, I'm Latheesh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=latheeshvm&label=Profile%20views&color=0e75b6&style=flat" alt="latheeshvm" /> </p>
 
